@@ -17,7 +17,8 @@ Presently working on backend and looking forward to interesting projects.
 
   <p>
       <a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white"></a>
-      <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white)"></a>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+      <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white"></a>
       <a href="#"><img alt="Apache Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?logo=Apache%20Maven&logoColor=white"></a>
       <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
