@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=100&color=4FA243&multiline=true&width=435&lines=Hi+there;My+name+is+Vitalii)](https://git.io/typing-svg)
 
-I'm currently pursuing a career as Backend Developer and doing projects that solve my personal and other engineers' problems. 
+I'm currently pursuing career as a Backend Developer and doing projects that solve my personal and other engineers' problems. 
 Presently working on backend and looking forward to interesting projects.
 
 <details> 
